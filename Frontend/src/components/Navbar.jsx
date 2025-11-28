@@ -120,20 +120,6 @@ function Navbar({
     }
   };
 
-  // Loading skeleton for navbar
-  if (loading) {
-    return (
-      <nav className="bg-white/10 backdrop-blur-xl shadow-sm sticky top-0 z-50 border-b border-white/5">
-        <div className="container mx-auto px-4 py-4">
-          <div className="flex justify-between items-center gap-4 animate-pulse">
-            <div className="h-8 bg-white/20 rounded-lg w-40"></div>
-            <div className="h-10 bg-white/20 rounded-lg w-32"></div>
-          </div>
-        </div>
-      </nav>
-    );
-  }
-
   return (
     <nav className="bg-white/10 backdrop-blur-xl shadow-sm sticky top-0 z-50 border-b border-white/5">
       <div className="container mx-auto px-4 py-4">
