@@ -1,4 +1,4 @@
-# Product List (MERN Stack)
+# Product Store (MERN Stack)
 
 A simple and modern **Product Listing Web App** built with React + Vite and TailwindCSS.
 Users can browse products, search by name, filter by category, and enjoy seamless infinite scrolling — all in a fully responsive UI.
@@ -39,7 +39,7 @@ Users can browse products, search by name, filter by category, and enjoy seamles
 ---
 
 ## Project Structure
- - ProductList/
+ - ProductStore/
     - Backend/ → Node.js + Express backend
     - Frontend/ → React frontend
     - README.md → Documentation
