@@ -32,15 +32,10 @@ Users can browse products, search by name, filter by category, and enjoy seamles
 - TailwindCSS
 - React Icons
 
-### Backend
-- Node.js + Express
-- MongoDB + Mongoose
-
 ---
 
 ## Project Structure
  - ProductStore/
-    - Backend/ → Node.js + Express backend
     - Frontend/ → React frontend
     - README.md → Documentation
 
@@ -51,14 +46,6 @@ Users can browse products, search by name, filter by category, and enjoy seamles
  - ### Clone Repository
    - git clone https://github.com/anuskamhzn/ProductStore.git
    - cd ProductList
-
- - ### Setup Backend
-   - cd backend
-   - npm install
-
- - ### Run Backend:
-        - node server.js
-        (Backend will run at: http://localhost:5000)
 
  - ### Setup Frontend
    - cd frontend
