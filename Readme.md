@@ -53,6 +53,6 @@ Users can browse products, search by name, filter by category, and enjoy seamles
 
  - ### Run Frontend:
         - npm start
-        (Frontend will run at: http://localhost:3000)
+        (Frontend will run at: http://localhost:5173)
 
 ---
